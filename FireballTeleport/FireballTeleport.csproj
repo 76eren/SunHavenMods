@@ -2,7 +2,7 @@
     <Import Project="..\common.targets" />
 
     <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-        <OutputPath>..\bin\SleepWhenever\</OutputPath>
+        <OutputPath>..\bin\FireballTeleport\</OutputPath>
     </PropertyGroup>
 
 </Project>
